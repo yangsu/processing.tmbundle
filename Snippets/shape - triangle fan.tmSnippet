@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>beginShape(TRIANGLE_FAN);
+$1
+endShape();</string>
+	<key>name</key>
+	<string>shape - triangle fan</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>shape</string>
+	<key>uuid</key>
+	<string>0AAD2458-EBDB-4F7C-AC4E-9E61C05ED86B</string>
+</dict>
+</plist>

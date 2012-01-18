@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>atan2(${1:y}, ${2:x})</string>
+	<key>name</key>
+	<string>arctan2</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>atan</string>
+	<key>uuid</key>
+	<string>D66EA096-CDDD-4B17-9A33-EE4A0D7C7DBB</string>
+</dict>
+</plist>
